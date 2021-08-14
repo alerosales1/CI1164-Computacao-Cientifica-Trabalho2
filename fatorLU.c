@@ -6,7 +6,7 @@
 
 #include "utils.h"
 #include "fatorLU.h"
-//#include <likwid.h>
+#include <likwid.h>
 
 // Liberaçao da memória alocada
 void liberaMatriz (MATRIZ *mat)
